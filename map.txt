@@ -1,0 +1,29 @@
+30
+##start
+un 23 3
+deux 16 7
+#commentaire
+trois 16 3
+quatre 16 5
+cinq 9 3
+six 1 5
+sept 4 8
+huit 12 12
+##end
+zero 9 5
+zero-quatre
+zero-six
+un-trois
+quatre-trois
+cinq-deux
+trois-cinq
+#autre commentaire
+quatre-deux
+deux-un
+sept-six
+sept-deux
+sept-quatre
+six-cinq
+huit-un
+huit-zero
+huit-sept
