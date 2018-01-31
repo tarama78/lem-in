@@ -1,0 +1,4 @@
+script: make -j3
+language: c
+os: osx
+compiler: clang
